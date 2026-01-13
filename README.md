@@ -5,24 +5,23 @@
 </div>
 
 <br/>
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na FATEC, sou apaixonado por backend e arquitetura de soluções. Atualmente, dedico-me intensamente ao ecossistema Java através de um plano de estudos focado (Maratona DevDojo), aprimorando conhecimentos em lógica, POO e modelagem de dados. Tenho experiência prática em projetos acadêmicos de Engenharia de Software e Banco de Dados, sempre buscando aplicar as melhores práticas de desenvolvimento para criar sistemas eficientes e escaláveis.
+
+<br/>
 <br/>
 <br/>
 
-- 🌱 Estudando atualmente Java.
-- 📫 Entre em contato pelo email: nascimentorickelme13@gmail.com
-- ⚡ Sou apaixonado pela tecnologia, descoberta e pelo aprendizado.
-
-<br/>
 
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:nascimentorickelme13@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rickelmesantos/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rickelmensantos)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=008000&color:FFF)](https://www.instagram.com/cacique.22/)
 
 ---
+<br/>
 
-### 🤖 Linguagens e Tecnologias
+### My stack -
 
 <img 
     align="left" 
