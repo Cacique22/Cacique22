@@ -1,4 +1,4 @@
-## Olá 👋
+## Olá, eu sou o Rickelme Nascimento 👋
 
 - 🌱 Estudando atualmente Java.
 - 📫 Entre em contato pelo email: nascimentorickelme13@gmail.com
