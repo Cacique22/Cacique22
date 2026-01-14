@@ -5,7 +5,7 @@
 </div>
 
 <br/>
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na FATEC, sou apaixonado por backend e arquitetura de soluções. Atualmente, dedico-me intensamente ao ecossistema Java através de um plano de estudos focado (Maratona DevDojo), aprimorando conhecimentos em lógica, POO e modelagem de dados. Tenho experiência prática em projetos acadêmicos de Engenharia de Software e Banco de Dados, sempre buscando aplicar as melhores práticas de desenvolvimento para criar sistemas eficientes e escaláveis.
+<p align="center">Systems Analysis and Development student at FATEC, I am passionate about backend development and solutions architecture. Currently, I am deeply immersed in the Java ecosystem through a focused study plan (DevDojo Marathon), strengthening my skills in logic, OOP, and data modeling. I have practical experience in Software Engineering and Database academic projects, always striving to implement best practices to build efficient and scalable systems.
 
 <br/>
 <br/>
